@@ -1,0 +1,235 @@
+,Brand,Store Number,Store Name,Ownership Type,Street Address,City,State/Province,Country,Postcode,Phone Number,Timezone,Longitude,Latitude,cluster
+9708,Starbucks,22145-218090,Kluang Mall,Licensed,"Jln Rambutan, G-10, Ground Floor","Bandar Kluang, Kluang",1,MY,86000,,GMT+08:00 Asia/Kuala_Lumpur,103.32,2.04,3
+9709,Starbucks,22152-218094,Petronas Bayu Senibong,Licensed,"Taman Bayu Senibong, Mukim Plentong, PTD 148135",Bayu Senibong,1,MY,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.49,3
+9710,Starbucks,18927-184364,Seri Alam,Licensed,"8 Jalan Suria, Bandar Seri Alam",Johor Bahru,1,MY,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.87,1.5,3
+9711,Starbucks,1923-137105,The Zone,Licensed,"88 Jalan Ibrahim Sutan, Stulang Laut, Level 1",Johor Bahru,1,MY,80300,07-2241702,GMT+08:00 Asia/Kuala_Lumpur,103.78,1.47,3
+9712,Starbucks,50001-272225,Senai Airport,Licensed,"Lot S11, Aero Mall, Senai International Airport",Johor Bahru,1,MY,81250,,GMT+08:00 Asia/Kuala_Lumpur,103.67,1.64,3
+9713,Starbucks,28255-250643,Seri Austin DT,Joint Venture,"Jalan Seri Austin 1, Taman Seri Austin",Johor Bahru,1,MY,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.75,1.58,3
+9714,Starbucks,33904-13360,Johor Bahru City Square,Licensed,"No 106 & 108, Jalan Wong Ah Fook, Lot J1-06, Level 1",Johor Bahru,1,MY,80000,07-2760267,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46,3
+9715,Starbucks,25311-240185,Danga Bay,Licensed,"Sales Gallery, Lot PTB 22056, Danga Bay, Jalan Skudai",Johor Bahru,1,MY,80200,,GMT+08:00 Asia/Kuala_Lumpur,103.71,1.49,3
+9716,Starbucks,21233-210285,Tesco Tebrau,Licensed,"No.1, Persiaran Desa Tebrau, Lot No.G7 & G8, Ground Floor",Johor Bahru,1,MY,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.55,3
+9717,Starbucks,30897-102820,AEON Tebrau,Licensed,"No.1 Jl Desa Tebrau, Taman Desa Tebrau, Lot G17",Johor Bahru,1,MY,81100,07-3556049,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.55,3
+9718,Starbucks,1915-139106,Bukit Indah,Licensed,"No. 8, Jalan Indah 15/2, Bukit Indah, Lot G08, Ground Floor",Johor Bahru,1,MY,81200,07-2370408,GMT+08:00 Asia/Kuala_Lumpur,103.66,1.48,3
+9719,Starbucks,15577-163164,JB Sentral,Licensed,"Jalan Jim Quee, Lot No. 1&2, 3rd Floor, JB Sentral",Johor Bahru,1,MY,80300,07-2212453,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46,3
+9720,Starbucks,20876-208707,AEON Kulaijaya,Licensed,"Persiaran Indahpura Utama, Bdr Indahpura, G68, Ground Floor",Johor Bharu,1,MY,81000,,GMT+08:00 Asia/Kuala_Lumpur,103.62,1.64,3
+9721,Starbucks,47501-258464,IOI Mall Kulai DT,Licensed,"Lot No. G-OSE 3/5/6, GF, IOI Mall Kulai, Lebuh Putra Utama, Bandar Putra",Kulai Johor,1,MY,81000,,GMT+08:00 Asia/Kuala_Lumpur,103.6,1.68,3
+9722,Starbucks,16340-164364,Johor Premium Outlets,Licensed,"Jalan Premium Outlets, Indahputra, Lot 500",Kulaijaya,1,MY,81000,07-5909143,GMT+08:00 Asia/Kuala_Lumpur,103.75,1.46,3
+9723,Starbucks,28251-250642,Muar Bakri,Joint Venture,"Lot No. PTB 16019, Ground Floor, Jalan Bakri, Muar Johor",Muar,1,MY,84000,,GMT+08:00 Asia/Kuala_Lumpur,102.6,2.05,3
+9724,Starbucks,24971-239310,Shell Bandar Seri Alam,Licensed,"Lot S1, Ground Floor, PTD 220529, Persiaran Seri Alam, Bandar Seri Alam",MUKIM PLENTONG,1,MY,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.88,1.51,3
+9725,Starbucks,19396-201906,Puteri Harbour,Licensed,"Persiaran Puteri Selatan, Puteri Harbour, Lot 1D, Ground Floor",Nusajaya,1,MY,79000,,GMT+08:00 Asia/Kuala_Lumpur,103.66,1.42,3
+9726,Starbucks,49288-267945,Segamat Sri Utama,Licensed,"Ground & 1st Floor, No. 25, Jalan Utama, 3/2",Segamat Johor,1,MY,85000,,GMT+08:00 Asia/Kuala_Lumpur,102.82,2.51,3
+9727,Starbucks,25161-238184,Taman Molek,Licensed,"Jalan Molek 3/20, Taman Molek, 21-G & 21-1",Taman Molek,1,MY,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.79,1.53,3
+9728,Starbucks,25680-212065,Aman Central,Licensed,"Lot G35 & G80, Aman Central Mall, Alor Setar Town, Kedah Darul Aman",Alor Setar,2,MY,,04731 3770,GMT+08:00 Asia/Kuala_Lumpur,100.37,6.13,5
+9729,Starbucks,26445-240449,Alor Setar DT,Licensed,"Jalan Alor Mengkudu, PT13875,13876,13877,78 & part of PT6189",Alor Setar,2,MY,5400,04733 8094,GMT+08:00 Asia/Kuala_Lumpur,100.38,6.1,5
+9730,Starbucks,17250-180648,Cenang Mall,Licensed,"Lot 2605 Jalan Pantai Cenang, Mukim Keda, Lot GF1a, GF1b & GF1c CenangMallLangkawi",Langkawi,2,MY,7000,04-9551540,GMT+08:00 Asia/Kuala_Lumpur,99.73,6.29,5
+9731,Starbucks,31809-117007,Langkawi International Airport,Licensed,"Langkawi International Airport, Lot No. C2, Public Concourse",Langkawi,2,MY,7000,04-9557780,GMT+08:00 Asia/Kuala_Lumpur,99.73,6.34,5
+9732,Starbucks,31076-104740,Langkawi Jetty Point,Licensed,"Jetty Kuah, Lot 15 & 16, Zone 2",Langkawi,2,MY,7000,04-9665309,GMT+08:00 Asia/Kuala_Lumpur,99.85,6.31,5
+9733,Starbucks,32071-123025,Lagenda Village Mall,Licensed,"Jalan Lagenda 1, Lagenda Heights, Lot G-9, G-15, G-16, Ground Floor",Sungai Petani,2,MY,8000,04-4229645,GMT+08:00 Asia/Kuala_Lumpur,100.5,5.66,5
+9734,Starbucks,16226-169665,Jusco Bandaraya Melaka,Licensed,"No. 2, Jalan Lagenda, Taman 1-Lagenda, Lot G89 & G90",Melaka,4,MY,75400,06-2818769,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.21,1
+9735,Starbucks,31462-107895,Dataran Pahlawan,Licensed,"Jalan Merdeka, Bandar Hilir, Lot BN-017, BN-030 & BN-031",Melaka,4,MY,75000,06-2815630,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.19,1
+9736,Starbucks,33958-98092,Mahkota Parade,Licensed,"No. 1, Jalan Merdeka, Lot No. G17/EG2",Melaka,4,MY,75000,06282 0721,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.19,1
+9737,Starbucks,24106-235604,Kota Laksamana DT,Licensed,"Plot B, Lot 2065, Pekan Klebang Seksyen IV",Melaka,4,MY,,,GMT+08:00 Asia/Kuala_Lumpur,102.22,2.21,1
+9738,Starbucks,15524-193325,Melaka Raya,Licensed,"No. 161 Jalan Merdeka, Taman Melaka Raya",Melaka,4,MY,75000,06-2814628,GMT+08:00 Asia/Kuala_Lumpur,102.26,2.19,1
+9739,Starbucks,22462-221127,The Shore,Licensed,"Jalan Persiaran Bunga Raya, GF-10",Melaka Tengah,4,MY,75300,,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.2,1
+9740,Starbucks,19790-202844,Port Dickson,Licensed,"PD Waterfront, HS(D) 8376 PT 74, Port of HS(D) 9376 PT 74",Port Dickson,5,MY,71000,,GMT+08:00 Asia/Kuala_Lumpur,101.79,2.52,1
+9741,Starbucks,30702-101569,Jusco Seremban 2,Licensed,"No. 112, Persiaran S2 B1, Seremban 2, Lot G49 & 50",Seremban,5,MY,70300,06-6015526,GMT+08:00 Asia/Kuala_Lumpur,101.91,2.7,1
+9742,Starbucks,32541-135925,Cameron Highlands,Licensed,"Lot 22 & 23, Jalan Besar, Tanah Rata",Cameron Highlands,6,MY,39007,05-4915648,GMT+08:00 Asia/Kuala_Lumpur,101.38,4.47,5
+9743,Starbucks,33917-39460,Genting Highlands,Licensed,"First World Hotel, Level T1, Lot F/L 1.4",Genting Highland,6,MY,69000,03-61013754,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42,1
+9744,Starbucks,22609-222727,Petron Genting Permai,Licensed,"Jalan Permai 2, Genting Permai Avenue, Lot 21078",Genting Highlands,6,MY,69000,,GMT+08:00 Asia/Kuala_Lumpur,101.77,3.39,1
+9745,Starbucks,32480-225566,East Coast Mall (Closed),Licensed,"East Coast Mall, No. GF-06, Alfresco Ground Floor",Kuantan,6,MY,25200,09-5609209,GMT+08:00 Asia/Kuala_Lumpur,103.33,3.82,1
+9746,Starbucks,22610-222730,Starbucks Teluk Cempedak,Licensed,"Jalan Tengku Abu Bakar, No 1&2, Pusat Rekreasi, Teluk Cempedak",Kuantan,6,MY,25050,,GMT+08:00 Asia/Kuala_Lumpur,103.37,3.81,1
+9747,Starbucks,33949-95052,Megamall Kuantan,Licensed,"Jalan Tun Ismail, Sri Dagangan, G-15, Ground floor",Kuantan,6,MY,25000,09-5134489,GMT+08:00 Asia/Kuala_Lumpur,103.33,3.81,1
+9748,Starbucks,50376-274504,Sky Avenue,Licensed,"Lot T2B-31, Sky Avenue, Genting Highlands",Pahang,6,MY,69000,,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42,1
+9749,Starbucks,17884-184365,Tanjong Tokong D/T,Licensed,"4-G, Jalan Pantai Molek, Tanjung Tokong",Penang,6,MY,10470,04-8906008,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.45,5
+9750,Starbucks,31408-107042,Queensbay Mall,Licensed,"100, Persiaran Bayan Indah, GF-36, Ground Floor",Bayan Lepas,7,MY,11900,04-6411645,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.33,5
+9751,Starbucks,31428-196124,Borders Queensbay Mall,Licensed,"100, Persiaran Bayan Indah, Lot 1F-91 & 92 QueensBay Mall",Bayan Lepas,7,MY,11900,04-6411148,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.34,5
+9752,Starbucks,24509-238149,AEON - Bukit Mertajam,Licensed,Lot G08 & G08A,Bukit Mertajam,7,MY,14000,,GMT+08:00 Asia/Kuala_Lumpur,100.44,5.37,5
+9753,Starbucks,25802-242470,Icon City DT,Licensed,Bukit Tengah,Bukit Mertajam,7,MY,14000,,GMT+08:00 Asia/Kuala_Lumpur,100.43,5.34,5
+9754,Starbucks,26885-245712,Raja Uda DT,Licensed,"Butterworth Business City Centre, Jalan Raja Uda",Butterworth,7,MY,12300,,GMT+08:00 Asia/Kuala_Lumpur,100.38,5.43,5
+9755,Starbucks,33946-94857,Genting 3,Licensed,"Genting Highlands Hotel, Lot H/LG 6.00, Lower Ground Floor",Genting Highland,7,MY,69000,03-61011858,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42,1
+9756,Starbucks,22745-224006,Sri Pinang DT,Licensed,"Lebuh Sungai Pinang, L1-1, L1-2, L1-3, L2-1",Georgetown,7,MY,11600,,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.4,5
+9757,Starbucks,23030-227024,Burmah Road,Licensed,"Jalan Burmah, 403-A",Georgetown,7,MY,10350,,GMT+08:00 Asia/Kuala_Lumpur,100.32,5.43,5
+9758,Starbucks,33919-28667,Prangin Mall,Licensed,"Jalan Dr  Lim Chwee Leong, No. 33-G-1A",Komtar,7,MY,10100,04-2611858,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.25,1
+9759,Starbucks,33910-247010,Mansion One,Licensed,"Ground Floor, Mansion 1, Jalan Sultan Ahmad Shah",Penang,7,MY,10050,,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.42,5
+9760,Starbucks,15049-157222,Straits Quay,Licensed,"Jalan Seri Tanjung Pinang Lot 3A-G-15, Unit No 3A-G-15, Block A, Ground Floor",Penang,7,MY,10470,04-8901076,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.46,5
+9761,Starbucks,32115-124324,New World Park,Licensed,"No. 102, Jalan Burma, Lot K-1, Ground Floor",Penang,7,MY,10050,04-2274284,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.42,5
+9762,Starbucks,12683-155244,1st Avenue,Licensed,"182, Jalan Magazine, Lot G-09 & G-10, Ground Floor",Penang,7,MY,10300,04-2633202,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.41,5
+9763,Starbucks,30674-100081,E- Gate Penang,Licensed,"Lebuh Tengku Kudin 2, Gelugor, Lot 1-01-17",Penang,7,MY,11700,04-6597502,GMT+08:00 Asia/Kuala_Lumpur,100.32,5.38,5
+9764,Starbucks,20851-208705,Gurney Paragon,Licensed,"G-30, Gurney Paragon, Persiaran Gurney",Penang,7,MY,10250,,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.43,5
+9765,Starbucks,33937-93418,Gurney Plaza,Licensed,"Plaza Gurney, Persiaran Gurney, Unit 170-G-39",Penang,7,MY,10250,04-2268858,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.44,5
+9766,Starbucks,48204-251331,Design Village,Licensed,"esLot G30,733 Jalan Cassia Barat 2, 14110 Bandar Cassia",Penang,7,MY,0,,GMT+08:00 Asia/Kuala_Lumpur,100.29,5.4,5
+9767,Starbucks,49680-270768,Sunrise Tower,Joint Venture,"Sunrise Tower, 190-192 Persiaran Gurney",Penang,7,MY,10250,,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.44,5
+9768,Starbucks,31797-114990,Sunway Carnival,Licensed,"3068, Jalan Todak Pusat bandar Seberang, UG-27, Upper Ground Floor",Penang,7,MY,13700,04-3982885,GMT+08:00 Asia/Kuala_Lumpur,100.4,5.4,5
+9769,Starbucks,23201-228504,Batu Ferringhi,Licensed,"69, Jalan Batu Ferringhi",Penang,7,MY,11000,,GMT+08:00 Asia/Kuala_Lumpur,100.25,5.47,5
+9770,Starbucks,18368-190504,Penang International Airport,Licensed,"Domestic Airside Penang International, Airport Lot L2A FB08. Bayan Lepas",Penang,7,MY,11900,04-6446818,GMT+08:00 Asia/Kuala_Lumpur,100.27,5.29,5
+9771,Starbucks,31274-105907,Juru Auto-City,Licensed,"Highway Auto-City Prai Industrial Estate, 1821-G1",Perai,7,MY,13600,04-5020362,GMT+08:00 Asia/Kuala_Lumpur,100.43,5.34,5
+9772,Starbucks,16720-174806,Jusco Ipoh Station 18,Licensed,"No. 2, Susuran Stesen 18, Station 18, Lot G66, Ground Floor",Ipoh,8,MY,31650,05-3217843,GMT+08:00 Asia/Kuala_Lumpur,101.09,4.6,5
+9773,Starbucks,27915-249188,AEON Klebang,Licensed,"Lot G.05, Ground Floor, Aeon Mall Ipoh Klebang",Ipoh,8,MY,30010,05291 4366,GMT+08:00 Asia/Kuala_Lumpur,101.1,4.64,5
+9774,Starbucks,31111-105258,Ipoh Parade,Licensed,"105, Jalan Sultan Abdul Jalil, Lot G25, Ground Floor",Ipoh,8,MY,30450,05-2412180,GMT+08:00 Asia/Kuala_Lumpur,101.09,4.6,5
+9775,Starbucks,20065-147988,Sunway Tambun DT,Licensed,"Part of Lost HS(D) KA 72917, Mukim Hulu, Kinta, Daerah Kinta",Ipoh,8,MY,31150,,GMT+08:00 Asia/Kuala_Lumpur,101.15,4.63,5
+9776,Starbucks,21353-212064,Medan Gopeng,Licensed,"Jalan Raja Dr. Nazrin Shah, Jalan Gopeng, Kampung Rapat",Ipoh,8,MY,31350,,GMT+08:00 Asia/Kuala_Lumpur,101.11,4.57,5
+9777,Starbucks,23238-228624,Kampar Tin Village,Licensed,"Lot No. 5 & 6, Ground Floor, Tin Village Mall",Kampar,8,MY,31900,,GMT+08:00 Asia/Kuala_Lumpur,101.15,4.33,5
+9778,Starbucks,18283-189684,AEON Seri Manjung,Licensed,"Pusat Perniagaan Manjung Point 3, Lot G65",Seri Manjung,8,MY,32040,05-6870143,GMT+08:00 Asia/Kuala_Lumpur,100.67,4.22,5
+9779,Starbucks,32703-135924,Taiping Sentral,Licensed,"No. 36, Jalan Istana Larut, Lot G-09 & G-10",Taiping,8,MY,34000,05-8054179,GMT+08:00 Asia/Kuala_Lumpur,100.74,4.86,5
+9780,Starbucks,22627-222729,AEON Taiping,Licensed,"Lot G08, Ground Floor, AEON Mall Taiping, Jalan Kamunting",Taiping,8,MY,34600,,GMT+08:00 Asia/Kuala_Lumpur,100.73,4.87,5
+9781,Starbucks,15051-157221,Ampang Point,Licensed,"Jalan Mamanda 3, Lot G20A, Ground Floor",Ampang,10,MY,68000,03-42653828,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.16,1
+9782,Starbucks,22143-218093,Petronas Ampang Jaya,Licensed,"Tmn Dato Ahmad Razali, Phase 1, Grd Floor",Ampang,10,MY,68000,,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.16,1
+9783,Starbucks,17454-177446,Prima 5 D/T,Licensed,"Block  3505, Jalan Teknokrat 5, Prima 5C",Cyberjaya,10,MY,63000,03-83189395,GMT+08:00 Asia/Kuala_Lumpur,101.66,2.92,1
+9784,Starbucks,47836-260028,D Pulze,Licensed,"G 28, D PULZE Shopping Centre,, Lingkaran Cyber Point Timur, Cyber 12",Cyberjaya,10,MY,63000,,GMT+08:00 Asia/Kuala_Lumpur,101.65,2.92,1
+9785,Starbucks,17444-158465,Shaftsbury,Licensed,"Cyber 6, Persiaran Multimedia, Lot 2350",Cyberjaya,10,MY,63000,03-83223973,GMT+08:00 Asia/Kuala_Lumpur,101.65,2.9,1
+9786,Starbucks,33935-190524,Bukit Raja (Closed),Licensed,"Persiaran Bukit Raja 2,Bandar Baru Klang, Lot G51, Ground Floor",Klang,10,MY,41150,03-33432842,GMT+08:00 Asia/Kuala_Lumpur,101.47,3.06,1
+9787,Starbucks,32114-114994,AEON Bukit Tinggi,Licensed,"No1 Persiaran Batu Nilam 1/KS6, bandar, Aeon Bukit Tinggi Shopping Centre",Klang,10,MY,41200,033318 1264,GMT+08:00 Asia/Kuala_Lumpur,101.44,2.99,1
+9788,Starbucks,31637-110064,Centro Klang,Licensed,"No. 8, Jalan Batu 3, Lot G135, Ground Floor",Klang,10,MY,41300,03-33587305,GMT+08:00 Asia/Kuala_Lumpur,101.46,3.05,1
+9789,Starbucks,29248-253094,Tesco Bandar Bukit Puchong,Licensed,"Lot G1, Grd Flr, Tesco Bdr Bkt Puchong, PT 80259, Jln BP7/1, Bdr Bkt Puchong",Mukim Petaling,10,MY,47110,,GMT+08:00 Asia/Kuala_Lumpur,101.45,3.08,1
+9790,Starbucks,30776-101271,Centrepoint BU,Licensed,"Lebuh Bandar Utama, Bandar Utama, Lot G109 & G110, Ground Floor",Petaling Jaya,10,MY,47800,03-77313861,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.14,1
+9791,Starbucks,16970-162284,Paradigm Mall,Licensed,"No. 1, Jalan SS7/26A, Kelana Jaya, Lot No. GB 01A & GB 16, Ground Floor",Petaling Jaya,10,MY,47301,03-78867598,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.11,1
+9792,Starbucks,24625-238385,Sunway Pinnacle,Licensed,"Mezzanine Floor, The Pinnacle, Persiaran, Bandar Sunway",Petaling Jaya,10,MY,46150,032035 5869,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.07,1
+9793,Starbucks,33955-97816,The Curve,Licensed,"Mutiara Damansara, G88, Ground Floor",Petaling Jaya,10,MY,47800,03-77315662,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16,1
+9794,Starbucks,31557-108240,Uptown 2,Licensed,"No.51G & 51A, Jalan SS21/37",Petaling Jaya,10,MY,47400,03-77314665,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13,1
+9795,Starbucks,33957-97874,Sunway Medical Center,Licensed,"No 5, Jalan Lagoon Selatan, Bandar Sunway, Lobby, Ground Floor",Petaling Jaya,10,MY,46150,03-56323876,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07,1
+9796,Starbucks,1916-136272,Tropicana Mall,Licensed,"No. 3, Jalan SS20/27, Lot G-01, Ground Floor",Petaling Jaya,10,MY,47400,03-77318667,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.13,1
+9797,Starbucks,33906-16256,Sunway Pyramid,Licensed,"No. 3 Jalan PJS 11/15, Bandar Sunway, Lot G1.12 & 1.13, Ground Floor",Petaling Jaya,10,MY,46150,03-56111967,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.07,1
+9798,Starbucks,32596-136403,SS2,Licensed,"No. 3, SS2/67, Taman Sea, Ground Floor",Petaling Jaya,10,MY,47300,03-78656828,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.12,1
+9799,Starbucks,32072-123084,Kota Damansara,Licensed,"Jalan PJU 5/11 Dataran Sunway, No.1 Ground Floor",Petaling Jaya,10,MY,47810,03-61513226,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.15,1
+9800,Starbucks,33942-93901,Bandar Utama 2,Licensed,"Lebuh Bandar Utama, Lot F352, 1st Floor",Petaling Jaya,10,MY,47800,03-77322568,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.21,1
+9801,Starbucks,32282-124325,Jaya 1,Licensed,"Palm Square, Jaya One Section 13, Unit E-81-G Block M, Ground Floor",Petaling Jaya,10,MY,46300,03-73917828,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.12,1
+9802,Starbucks,22140-218092,Menara Axis,Licensed,"No.2 Jln 51A/223, Ground Floor",Petaling Jaya,10,MY,46100,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.1,1
+9803,Starbucks,32291-135364,3 Two Square,Licensed,"No. 2, Jalan 19/1, C-17-01, Dataran 32",Petaling Jaya,10,MY,46300,03-79607127,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.11,1
+9804,Starbucks,23249-228625,Atria,Licensed,"G39, Ground Floor Atria Shopping Gallery, Jalan 22/23, Damansara Jaya",Petaling Jaya,10,MY,47400,,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13,1
+9805,Starbucks,22532-221926,Encorp Strand,Licensed,"No 1. Kalan PJU 5/23, Pusat Perdagangan, Log G-08 &G-09, Ground floor",Petaling Jaya,10,MY,47810,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.16,1
+9806,Starbucks,33951-95923,Damansara Uptown 1,Licensed,"110G, Jalan SS 21//39, Damansara Utama",Petaling Jaya,10,MY,47400,03-77318662,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13,1
+9807,Starbucks,22157-218091,Damansara Perdana,Licensed,"Jalan PJU 8/8, A=LG-03",Petaling Jaya,10,MY,47820,,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.17,1
+9808,Starbucks,50000-272226,PJ8,Licensed,"No 21, Jalan Barat, Petaling Jaya, Selangor",Petaling Jaya,10,MY,46200,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.1,1
+9809,Starbucks,33903-213724,Jaya Shopping Centre,Licensed,"Lot G15 & G-16, Ground Floor, Lot G 15A & G-16, Ground Floor",Petaling Jaya,10,MY,46100,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.11,1
+9810,Starbucks,29921-255992,Sunway Pyramid 3,Joint Venture,"SP3G001,GF,Sunway Pyramid Shopping Mall3, 3, Jln PJS 11/15, Bandar Sunway",Petaling Jaya,10,MY,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.07,1
+9811,Starbucks,17238-162265,Bandar Utama,Licensed,"Lebuh Bandar Utama, Bandar Utama, Lot G139A, Ground Floor",Petaling Jaya,10,MY,47800,03-77327846,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.15,1
+9812,Starbucks,31982-114991,Sunway Pyramid 2,Licensed,"No. 1, Jalan PJS 11/15, Bandar Sunway, Lot LG1.110, Lower Ground",Petaling Jaya,10,MY,46150,03-56310613,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07,1
+9813,Starbucks,33947-94257,Giant Kelana Jaya,Licensed,"No. 33, Jalan SS6/12, Kelana Jaya, Lot G29 & G30",Petaling Jaya,10,MY,47301,03-78806842,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.1,1
+9814,Starbucks,30792-101570,"Borders, The Curve",Licensed,"Jalan PJU 7/3, Mutiara Damansara, Lot G16, Ground Floor, The Walk",Petaling Jaya,10,MY,47800,03-77318665,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16,1
+9815,Starbucks,48866-265645,Amcorp Tower,Licensed,"G-01, Grd Flr, Amcorp Tower, 18, Persiaran Barat",Petaling Jaya Selangor,10,MY,46050,,GMT+08:00 Asia/Kuala_Lumpur,101.65,3.1,1
+9816,Starbucks,2121-135927,Setia Walk,Licensed,"Persiaran Wawasan, Pusat Bandar Puchong, G-01G, No. G-2, Jalan Puteri 7/13A Bandar Puteri",Puchong,10,MY,47160,03-58853110,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.04,1
+9817,Starbucks,24238-236224,Bandar Puteri Puchong,Licensed,"Lot TC-05, IOI Galleria @ The Cube",Puchong,10,MY,47100,,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.03,1
+9818,Starbucks,33913-22102,IOI Mall,Licensed,"Batu 9, Bandar Puchong Jaya, Lot G00, Front Entrance, Ground Floor",Puchong,10,MY,47100,03-80821370,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.0,1
+9819,Starbucks,33953-222728,Alamanda 2 at AGC,Licensed,"Bangunan Jabatan Peguan Negara AGC, Persint 4, Lot 1, Level 1",Putrajaya,10,MY,62100,,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.94,1
+9820,Starbucks,16719-174805,Jusco Rawang,Licensed,"No. 1, Persiaran Anggun, Taman Anggun, Lot G62, Ground Floor",Rawang,10,MY,48000,03-60910927,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.34,1
+9821,Starbucks,22142-218089,Petronas Rawang R&R,Licensed,"Rawat Rawang, Lebuhraya Utara Selatan, (Arah Utara)",Rawang,10,MY,48000,,GMT+08:00 Asia/Kuala_Lumpur,101.56,3.33,1
+9822,Starbucks,21579-208704,SDMC,Licensed,"Sime Darby Medical Centre, No. 1, Jalan SS 12/1a, SS12, Subang Jaya",Selangor,10,MY,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.08,1
+9823,Starbucks,18241-173545,Petronas PLUS D/T,Licensed,"KM305Plus Arah Selatan, Mukim Kajang, Stesen Minyak Petronas",Selangor,10,MY,43300,03-89382297,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.01,1
+9824,Starbucks,21229-210286,KLIA Contact Pier,Licensed,"Contact Pier, KL International Airport, Sepang",Selangor,10,MY,64000,012644 8660,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.75,1
+9825,Starbucks,26044-243286,Citta Mall,Licensed,"G15, Ground Floor, Citta Mall, 1, Jln PJU 1A/48, Jln PJU 1, Ara Dsara",Selangor,10,MY,47301,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.11,1
+9826,Starbucks,28343-250636,Tesco Jenjarom,Licensed,"G6, Grd Flr, Tesco Jenjarom, 1, Jln 1/1, Tmn Seri Jaromas, Jenjarom",Selangor,10,MY,,,GMT+08:00 Asia/Kuala_Lumpur,101.42,3.12,1
+9827,Starbucks,48865-265667,Mitsui Outlet Park,Licensed,"Lot G65, Mitsui Outlet Park, KLIA, Sepang",Selangor,10,MY,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.68,2.78,1
+9828,Starbucks,20856-208706,Petronas Lingkaran Karak,Licensed,"Lebuhraya KL-Karak,Mukim Setapak, Gombak",Selangor,10,MY,68100,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46,3
+9829,Starbucks,29875-255627,Petronas Equine Park DT,Joint Venture,"Petronas Station Equine Park 1, Mukim Petaling, Seri Kembangan",Selangor,10,MY,43300,,GMT+08:00 Asia/Kuala_Lumpur,101.67,2.97,1
+9830,Starbucks,6013-242485,LCCT,Licensed,"KL International Airport, Lot LCPC 18, Public Concourse",Sepang,10,MY,64000,03-87871066,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74,1
+9831,Starbucks,48353-263108,KLIA 2 Satellite,Licensed,"Lot No. S6-2-A41, Departure Level",Sepang,10,MY,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74,1
+9832,Starbucks,33954-145784,KLIA,Licensed,"Lot 17(A)-(B) & 18 Satellite Building, Mezzanine level",Sepang,10,MY,64000,03-87873509,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.75,1
+9833,Starbucks,19337-195305,Gateway at KLIA2,Licensed,"Unit No. L3-25 Level 3, Gateway @ KLIA2",Sepang,10,MY,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74,1
+9834,Starbucks,19406-198925,KLIA2 - Airside Domestic,Licensed,"S1-1a-A02, Domestic Departure & Arrival, Level (Airside), KLIA2",Sepang,10,MY,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74,1
+9835,Starbucks,47928-260550,Mines City DT,Licensed,"L3-19AP, Level 3, The Mines, Jalan Dulang, MINES Resort City",Seri Kembangan,10,MY,43300,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.03,1
+9836,Starbucks,3059-136398,The Mines,Licensed,"Jalan Dulang, Mines Resort City, L2-08(P), Level 2",Seri Kembangan,10,MY,43300,03-89586858,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.03,1
+9837,Starbucks,16621-173245,KOTA KEMUNING,Licensed,"Jalan Anggerik Vanila, Kota Kemuning, Seksyen 31, part of lot PT128300",Shad Alam,10,MY,40460,035110 0642,GMT+08:00 Asia/Kuala_Lumpur,101.55,2.99,1
+9838,Starbucks,3075-136445,Setia Alam D/T,Licensed,"Lot No.4, Persiaran Setia Impain, Bandar Setia Alam, Seksyen U 13",Shah Alam,10,MY,40170,03-33414623,GMT+08:00 Asia/Kuala_Lumpur,101.5,3.13,1
+9839,Starbucks,17171-156708,Setia City Mall,Licensed,"No.7, Persiaran Setia Dagang, Seksyen U1, Lot LG-33",Shah Alam,10,MY,40170,03-33456195,GMT+08:00 Asia/Kuala_Lumpur,101.46,3.11,1
+9840,Starbucks,33956-95094,Plaza Shah Alam,Licensed,"No. 2 Jalan  Tengku Ampuan Zabedah E9/E, Seksyen9,Lot EL2,Level 2,Plaza Shah Alam",Shah Alam,10,MY,40100,035510 1518,GMT+08:00 Asia/Kuala_Lumpur,101.52,3.08,1
+9841,Starbucks,19754-195208,Main Place,Licensed,"Jalan USJ 21/10, Persiaran Kewajipan, Lot No. GF-01",Subang Jaya,10,MY,47630,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.03,1
+9842,Starbucks,25148-239966,One City,Licensed,"Jalan USJ 25/1, No A-GF-03, A-GF-03A & A-GF-03B",Subang Jaya,10,MY,47650,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.02,1
+9843,Starbucks,25804-242471,Da Men,Licensed,"Lot LG-8, Lower Ground Floor, Jalan USJ Sentral 1, USJ Sentral",Subang Jaya,10,MY,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.07,1
+9844,Starbucks,15874-166185,Subang Parade,Licensed,"No. 5, Jalan SS16/1, Lot G15J, Ground Floor",Subang Jaya,10,MY,47500,03-56121566,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.08,1
+9845,Starbucks,30879-101157,SS15. Subang Jaya,Licensed,"No.79, Jalan SS15/8A, Ground Floor",Subang Jaya,10,MY,47500,03-56115596,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.07,1
+9846,Starbucks,33933-85140,Taipan,Licensed,"No. 41, Jalan USJ 10/1D, UEP, Ground Floor",Subang Jaya,10,MY,47620,03-80113569,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.05,1
+9847,Starbucks,1922-139704,Subang Skypark,Licensed,"Jalan Lapangan Terbang, Lot G12 & G13, Terminal 3",Subang Jaya,10,MY,47200,03-78469143,GMT+08:00 Asia/Kuala_Lumpur,101.55,3.14,1
+9848,Starbucks,3086-139708,Empire Gallery Subang,Licensed,"Jalan SS16/1, G28",Subang Jaya,10,MY,47500,03-56313302,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.08,1
+9849,Starbucks,3835-153473,Taylor's Lakeside,Licensed,"No. 1, Jalan Taylor's, Ground Floor, Lot G.1",Subang Jaya,10,MY,47500,03-53126858,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07,1
+9850,Starbucks,31777-115328,Metro Point Kajang,Licensed,"Seksyen 7, Bandar Kajang, Lot G19 & G30",Ulu Langat,10,MY,43000,03-87368727,GMT+08:00 Asia/Kuala_Lumpur,101.79,2.99,1
+9851,Starbucks,31342-106289,Warisan Square KK,Licensed,"Jalan Fuad Stephen, Lot No. 8, Ground & 1st Floor Block C",Kota Kinabalu,12,MY,88000,088-447062,GMT+000000 Asia/Kuching,116.07,5.98,2
+9852,Starbucks,32542-132944,One Borneo 1,Licensed,"Jalan Sulaman, G-832 & F-832 - Ground & First Floor",Kota Kinabalu,12,MY,88000,088-447189,GMT+000000 Asia/Kuching,116.13,6.04,2
+9853,Starbucks,31754-109644,City Mall KK,Licensed,"Jalan Lintas Luyang, Lot No. 4, Ground Floor",Kota Kinabalu,12,MY,88300,088-484275,GMT+000000 Asia/Kuching,116.1,5.96,2
+9854,Starbucks,23673-216288,Imago KK Times Square,Licensed,"G33B & G33C, Ground Floor, Imago KK Times Square",Kota Kinabalu,12,MY,88100,,GMT+000000 Asia/Kuching,116.07,5.97,2
+9855,Starbucks,31341-106381,Centrepoint KK,Licensed,"No. 1, Jalan Centre Point, Lot No. P37, 4th Floor",Kota Kinabalu,12,MY,88000,088-258180,GMT+000000 Asia/Kuching,116.07,5.97,2
+9856,Starbucks,32698-135946,KKIA,Licensed,"Kota Kinabalu International Airport, L3A01, Level 3, Airside, Terminal 1",Kota Kinabalu,12,MY,88740,088-413814,GMT+000000 Asia/Kuching,116.05,5.93,2
+9857,Starbucks,18213-188744,Suria Sabah,Licensed,"Suria Sabah Shopping Mall, G-2 & G-69, Ground Floor",Kota Kinabalu,12,MY,88000,088-486260,GMT+000000 Asia/Kuching,116.08,5.99,2
+9858,Starbucks,32543-169666,1 Borneo -2F Enter Zone,Licensed,"Jalan Sulaman, No. G-301, Ground Floor",Kota Kinabalu,12,MY,88000,088-447329,GMT+000000 Asia/Kuching,116.13,6.04,2
+9859,Starbucks,20800-207344,Oceanus Waterfront,Licensed,"Jalan Fuad Stephen, Unit G35, Ground Floor",Kota Kinabalu,12,MY,88000,,GMT+000000 Asia/Kuching,116.07,5.98,2
+9860,Starbucks,47722-259544,Kota Kinabalu Intl Airport (Landsid,Licensed,"L1L10, Lvl 1 Landside, Terminal 1",Sabah,12,MY,88740,,GMT+000000 Asia/Kuching,116.09,5.97,2
+9861,Starbucks,21630-213708,Bintulu Times Square Mall,Licensed,"Lot No. 20B, Level 1,, Time Square Megamall",Bintulu,13,MY,97014,,GMT+08:00 Asia/Kuala_Lumpur,102.23,4.41,1
+9862,Starbucks,18641-193904,Summer Mall,Licensed,"Jalan Dato Mohd Musa, G25,G25,G27,G98&G9, G25,G25,G27,G98&G99",Kota Samarahan,13,MY,93350,,GMT+08:00 Asia/Kuala_Lumpur,110.43,1.46,4
+9863,Starbucks,17883-176424,Plaza Merdeka,Licensed,"Plaza Merdeka,88 Jalan Pearl, Lot G-46, Ground Floor",Kuching,13,MY,93000,082-239785,GMT+08:00 Asia/Kuala_Lumpur,110.34,1.56,4
+9864,Starbucks,32256-108271,Starbucks The Spring,Licensed,"Lot 7196, Section 64, Kuching Town Land, Lot G10 First Floor",Kuching,13,MY,93350,082-247687,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.54,4
+9865,Starbucks,3082-137817,Precint 88,Licensed,"Precint 88, Jalan Song, Unit G1 & F1, Ground & First Floor",Kuching,13,MY,93350,082-367913,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.52,4
+9866,Starbucks,31798-111244,Kuching International Airport,Licensed,"Jalan Lapangan Terbang, Lot L2L 08 & 09, Level 3 Public Concours",Kuching,13,MY,93722,082-625919,GMT+08:00 Asia/Kuala_Lumpur,110.34,1.49,4
+9867,Starbucks,1899-139886,Miri Airport,Licensed,"Lot No GL14, Public Concourse, Ground Level",Miri,13,MY,98000,085-616450,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.33,2
+9868,Starbucks,19720-201166,Imperial City Mall,Licensed,"Jalan Merpati, Ground Floor",Miri,13,MY,98000,,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.4,2
+9869,Starbucks,32762-137815,Bintang Plaza Miri,Licensed,"Jalan Bintang, Lot G47 & G39A, Ground Floor",Miri,13,MY,98000,085-435650,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.4,2
+9870,Starbucks,47500-258465,Marina Parkcity DT,Licensed,"No. 1, Block 9, Miri Concession Land District",Miri Sarawak,13,MY,98000,,GMT+08:00 Asia/Kuala_Lumpur,114.03,4.29,2
+9871,Starbucks,26909-228505,Vivacity Megamall,Licensed,"NA, Na",,13,MY,,82263673,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.53,4
+9872,Starbucks,47946-260564,Sibu Pedada,Licensed,"Lot 3047 Block 3, Sibu Town District, Jalan Pedada",Sibu,13,MY,96000,,GMT+08:00 Asia/Kuala_Lumpur,111.85,2.31,4
+9873,Starbucks,31426-107047,Jusco Cheras Selatan,Licensed,"Lebuh Tun Hussein Onn, Lot G31",Balakong,14,MY,43200,03-90816795,GMT+08:00 Asia/Kuala_Lumpur,101.76,3.03,1
+9874,Starbucks,33916-30520,Jusco Maluri,Licensed,"Jalan Jejaka, Lot G12, Ground Floor",Cheras,14,MY,55100,03-92026376,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.13,1
+9875,Starbucks,25155-237965,MBC Tower,Licensed,"11, Jalan Raja Laut, Ground Floor",KL,14,MY,50100,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.16,1
+9876,Starbucks,31233-244104,Pantai Medical Centre (Closed),Licensed,"8, Jalan Bukit Pantai, Part of Ground Floor",Kuala Lumpur,14,MY,59100,03-22015008,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.12,1
+9877,Starbucks,28994-252012,TREC,Licensed,"E-G-15 & E-A-15, Ground Floor, Electric Boulevard, TREC",Kuala Lumpur,14,MY,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15,1
+9878,Starbucks,49999-272228,Publika,Licensed,"Lot 42, G2, Publika Shopping Gallery, No. 1, Jln Dutamas 1, Solaris Dutamas",Kuala Lumpur,14,MY,50480,,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.17,1
+9879,Starbucks,24275-236921,Menara Binjai,Licensed,"No.2, Jalan Binjai, G-02",Kuala Lumpur,14,MY,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.16,1
+9880,Starbucks,25308-240184,Mid Valley 2,Licensed,"T-073, Third Floor, Mid Valley Megamall, Lingkaran Syed Putra",Kuala Lumpur,14,MY,59200,,GMT+08:00 Asia/Kuala_Lumpur,103.73,1.47,3
+9881,Starbucks,33928-80641,Plaza Berjaya,Licensed,"No. 12, Jalan Imbi, Kiosk 1, Ground Floor",Kuala Lumpur,14,MY,55100,03-21102858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14,1
+9882,Starbucks,18461-186352,Cheras Sentral,Licensed,"Lot LG-16, 17 & 18, Low Ground Floor, Cheras Sentral",Kuala Lumpur,14,MY,56000,,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.08,1
+9883,Starbucks,32169-129284,Parkson Sungei Wang Plaza,Licensed,"No. 769, Jalan Bukit Bintang, C27 Concourse Level",Kuala Lumpur,14,MY,55100,03-21101858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9884,Starbucks,21871-206347,Quill City Mall,Licensed,Jalan Sultan Ismail,Kuala Lumpur,14,MY,50250,,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.16,1
+9885,Starbucks,29500-253992,Ansa,Licensed,"Lot G.03, Ground Floor, 101, Jalan Bukit Bintang",Kuala Lumpur,14,MY,,321130015,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.15,1
+9886,Starbucks,15422-161324,Desa Sri Hartamas,Licensed,"No. 22, Jalan 25/70A, Desa Sri Hartamas, Ground Floor",Kuala Lumpur,14,MY,59400,03-62115009,GMT+08:00 Asia/Kuala_Lumpur,101.65,3.16,1
+9887,Starbucks,33938-93481,Berjaya Times Square 1,Licensed,"Berjaya Times Square, No.1, Jalan Imbi, Lot No. G-09A, Ground Floor",Kuala Lumpur,14,MY,55100,03-21100221,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14,1
+9888,Starbucks,16850-176227,TTDI,Licensed,"No. 20-G, Jalan Tun Mohd Fuad 1, A & B, Taman Tun Dr Ismail",Kuala Lumpur,14,MY,60000,03-77334557,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.14,1
+9889,Starbucks,33927-76364,Great Eastern Mall,Licensed,"No. 303, Jalan Ampang, Lot 13 & 14, Ground Floor",Kuala Lumpur,14,MY,50450,03-42576842,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.16,1
+9890,Starbucks,21707-214566,Taman Connaught,Licensed,"2, Jalan Menara Gading 1, Ground Floor, Taman Connaught",Kuala Lumpur,14,MY,56000,,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.08,1
+9891,Starbucks,33945-94400,33945,Licensed,"No 7 Jalan 1/77, Off Jalan Bukit Bintang, G-28, Ground Floor",Kuala Lumpur,14,MY,55100,03-21101183,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14,1
+9892,Starbucks,18504-191664,Menara Olympia,Licensed,"No. 8, Jalan Raja Chulan, Level 1",Kuala Lumpur,14,MY,50200,03-20221185,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15,1
+9893,Starbucks,18456-156705,NU Sentral,Licensed,"No.201, Jalan Tun Sambathan, Lot 14&15 Concourse Floor",Kuala Lumpur,14,MY,,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13,1
+9894,Starbucks,24624-238387,Sunway Velocity,Licensed,"Jalan Cheras, Cheras",Kuala Lumpur,14,MY,55100,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.13,1
+9895,Starbucks,32540-136426,Menara Hap Seng,Licensed,"Jalan P. Ramlee, Suite G-09, Ground Floor",Kuala Lumpur,14,MY,50250,03-20222858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9896,Starbucks,33959-98940,Plaza Damas,Licensed,"Jalan Sri Hartamas 1, Sri Hartamas, Lot P7-A, Ground Floor",Kuala Lumpur,14,MY,50480,328569024,GMT+08:00 Asia/Kuala_Lumpur,101.66,3.16,1
+9897,Starbucks,9168-152125,Gleneagles,Licensed,"No. 286, Jalan Ampang, Ground Floor (Garden Area)",Kuala Lumpur,14,MY,50450,03-42665689,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.16,1
+9898,Starbucks,33962-99772,Kuala Lumpur,Licensed,"Kuala Lumpur Convention Centre, Lot C09, Concourse Floor",Kuala Lumpur,14,MY,50088,03-21812213,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9899,Starbucks,32113-216304,Capital Squar,Licensed,"No. 8, Jalan Munshi Abdullah, Lot G-2, Ground Floor",Kuala Lumpur,14,MY,50100,03-22027958,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15,1
+9900,Starbucks,33941-93902,IKANO Power Center,Licensed,"No. 2, Jalan PJU 7/2, Mutiara Damasara, Unit G22, Ground Floor",Kuala Lumpur,14,MY,47800,03-77106842,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16,1
+9901,Starbucks,23674-218085,Menara TA One,Licensed,"Ground Floor, Menara TA One, 22 Jln P Ramlee",Kuala Lumpur,14,MY,50250,017603 6211,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16,1
+9902,Starbucks,33961-98564,Berjaya Time Square,Licensed,"No 1, Jalan Imbi, Lot No. 01-01-28, 1st Avenue, 1st Floor",Kuala Lumpur,14,MY,55100,03-21100386,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14,1
+9903,Starbucks,19120-178904,Club Nexu5,Licensed,"Club Nexu5, Bangsar South, Lot F&B 01, Ground Floor",Kuala Lumpur,14,MY,59200,,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.13,1
+9904,Starbucks,21868-213704,Teknology Park Malaysia DT,Licensed,"Jalan Teknologi Malaysia, Wisma Scope International, PT15084",Kuala Lumpur,14,MY,57000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.05,1
+9905,Starbucks,20431-205551,Avenue K,Licensed,"156 Jalan Ampang, G-7, Ground Floor",Kuala Lumpur,14,MY,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16,1
+9906,Starbucks,48876-265646,Ampang DT,Licensed,"Lot 4258 & 4259, Jalan Ampang",Kuala Lumpur,14,MY,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.44,3.09,1
+9907,Starbucks,31519-108182,Bangsar Village 2,Licensed,"No. 2, Jalan Telawi Satu, Bangsar Baru, Lot No. 2F-11 & K1, 2nd Floor",Kuala Lumpur,14,MY,59100,03-22015338,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.13,1
+9908,Starbucks,33934-91182,AEON Alpha Angle,Licensed,"Jalan R1, Bandar Baru Wangsa Maju",Kuala Lumpur,14,MY,53300,03-41492842,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.2,1
+9909,Starbucks,14975-156707,VIVA Home,Licensed,"No. 85, Jalan Loke Yew, LG-28A, Lower Ground Floor",Kuala Lumpur,14,MY,55200,03-92027808,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.13,1
+9910,Starbucks,33936-91763,Menara Maybank,Licensed,"No. 100, Jalan Tun Perak, Foyer Area, 1st Floor",Kuala Lumpur,14,MY,50050,03-20312858,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15,1
+9911,Starbucks,33908-13607,Plaza Mont' Kiara,Licensed,"No. 2, Jalan 1/70C, Mont' Kiara, Lot Suite B, OG-01-02",Kuala Lumpur,14,MY,50480,03-62112169,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.14,1
+9912,Starbucks,33905-12648,Mid Valley Megamall,Licensed,"Mid Valley City, Lot G-100, Ground Floor",Kuala Lumpur,14,MY,58000,03-22011223,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12,1
+9913,Starbucks,33907-237935,Wisma UOA Damansara,Licensed,"Blok C-C1-C2, Level 1, Jalan Beringin, Pusat Bandar Damansara",Kuala Lumpur,14,MY,50490,03-20110959,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.11,1
+9914,Starbucks,17252-180646,Wisma HB,Licensed,"Megan Avenue II, 12, Jalan Yap Kwan Seng, A-0-1, Ground Floor, Block A",Kuala Lumpur,14,MY,50450,03-21813063,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16,1
+9915,Starbucks,31955-124344,Pavilion 2,Licensed,"168, Jalan Bukit Bintang, Lot No. 6.02.00, Level 6",Kuala Lumpur,14,MY,55100,03-21100258,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9916,Starbucks,32160-126464,Borders the Gardens,Licensed,"The  Gardens Mid Valley, Lot T-216-B, 3rd Floor",Kuala Lumpur,14,MY,59200,03-22013778,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12,1
+9917,Starbucks,23233-228626,Kepong Village Mall,Licensed,"No.3, Jln 7A/62A, Bdr Menjalara, Lot G1 & G2, Ground Floor",Kuala Lumpur,14,MY,52200,,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.19,1
+9918,Starbucks,33911-22084,The Weld,Licensed,"No. 76, Jalan Raja Chulan, Lot G1",Kuala Lumpur,14,MY,50200,03-20220262,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9919,Starbucks,33921-212504,The Mall,Licensed,"No. 100, Jalan Putra, No. G40",Kuala Lumpur,14,MY,50350,03-40502738,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.17,1
+9920,Starbucks,31956-114989,Pavillion Kuala Lumpur,Licensed,"168, Jalan Bukit Bintang, Lot C 3.08.00 & C3.09.00, Level 3",Kuala Lumpur,14,MY,55100,03-21100378,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9921,Starbucks,33944-94464,AEON Kepong,Licensed,"Jalan Kepong, Lot G36",Kuala Lumpur,14,MY,52100,03-62423828,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.21,1
+9922,Starbucks,18947-196928,Lot 10,Licensed,"50 Jalan Sultan Ismail, Lot H-20 Terrace, Lot 10 Shopping Centre",Kuala Lumpur,14,MY,50250,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9923,Starbucks,33960-98399,Cheras Leisure Mal,Licensed,"Jalan Manis 6, Taman Segar, Lot L2-25, Level 2",Kuala Lumpur,14,MY,56100,03-91336191,GMT+08:00 Asia/Kuala_Lumpur,101.74,3.09,1
+9924,Starbucks,18453-173544,Petronas Service Stat - Federal Hwy,Licensed,"KM 18.5, Federal Highway - KL Bound",Kuala Lumpur,14,MY,,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.08,1
+9925,Starbucks,31753-110087,Pearl Point,Licensed,"Batu 5, Jalan Kelang Lama, Lot No. 1.0.26, Ground Floor",Kuala Lumpur,14,MY,58000,03-79722838,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.09,1
+9926,Starbucks,18780-195207,Scott Garden,Licensed,"Jalan Klang Lama, S-G-09",Kuala Lumpur,14,MY,58000,03-79800142,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.1,1
+9927,Starbucks,33912-12650,Kota Raya,Licensed,"Kota Raya Complex Jalan Tun Tan Cheng, Lock, Kiosk G1 Sidewalk Cafe",Kuala Lumpur,14,MY,50450,03-20220852,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15,1
+9928,Starbucks,33929-242473,KLCC 1 (Closed),Licensed,"Kuala Lumpur City Centre, Lot G45A, Ground Floor",Kuala Lumpur,14,MY,,0,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.16,1
+9929,Starbucks,1910-139105,Aeon AU2,Licensed,"No. 3 Jalan 37/56 Taman setiawangsa, AU2 Bandar Baru Ampang Lot G48, AEON AU2",Kuala Lumpur,14,MY,54200,03-42661885,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.18,1
+9930,Starbucks,18713-194405,Bukit Bintang,Licensed,"Jalan Bukit Bintang, Ground Floor",Kuala Lumpur,14,MY,55100,03-21410199,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9931,Starbucks,33952-96324,Bangsar Village 1,Licensed,"Jalan Telawi 1, Bangsar Baru, Lot G7, Ground Floor",Kuala Lumpur,14,MY,59100,03-22013935,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.13,1
+9932,Starbucks,31981-114992,The Gardens Mid Valley,Licensed,"No. 1, Medan Syed Putra Utara, Lot S-226B, Second Floor",Kuala Lumpur,14,MY,59200,032283 3744,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12,1
+9933,Starbucks,33924-75120,KL Sentral,Licensed,"KL Sentral, Arrival Hall, Unit 5",Kuala Lumpur,14,MY,50470,03-22746842,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13,1
+9934,Starbucks,21220-210284,SOHO KL,Licensed,"Solaris Mont Kiara, No.2, Jalan Solaris, Mont Kiara",Kuala Lumpur,14,MY,50480,,GMT+08:00 Asia/Kuala_Lumpur,101.66,3.18,1
+9935,Starbucks,22141-218086,Wisma UOA,Licensed,"No.19, Jalan Pinang, 19-1-2, Ground Floor",Kuala Lumpur,14,MY,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15,1
+9936,Starbucks,33940-93879,KLCC 2,Licensed,"Kuala Lumpur City Centre, Lot 327 & K33B, 3rd Floor",Kuala Lumpur,14,MY,50088,03-21813037,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16,1
+9937,Starbucks,7028-254567,Sooka Sentral (Closed),Licensed,"Jalan Stesen Sentral 5, G2B, Ground Floor",Kuala Lumpur Sentral,14,MY,50470,03-27807188,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13,1
+9938,Starbucks,49170-267228,Labuan Airport,Licensed,"L1L06, Level 1, Landside, Labuan Airport, Jalan Tun Mustapha, Taman Sec Airport",Labuan,15,MY,87015,,GMT+000000 Asia/Kuching,115.26,5.3,2
+9939,Starbucks,29788-255372,KSL Resort,Joint Venture,"32, Jalan Seladang, Taman Abad, Johor Bahru",Johor,16,MY,80250,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.48,3
+9940,Starbucks,26648-244844,Komtar JBCC,Licensed,"Lot No.239, Second Floor, JBCC, Johor Bahru City Centre",Johor Bahru,16,MY,80000,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46,3
+9941,Starbucks,24880-197644,IOI City,Licensed,"Unit No. GE-2, Ground Floor,, IOI City Mall",Putrajaya,16,MY,62502,,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.97,1
