@@ -17,8 +17,6 @@ COLLECTION_NAME = "knowledge_base"
 ATLAS_VECTOR_SEARCH_INDEX_NAME = "vector_index"
 
 
-rerank_model = CrossEncoder("mixedbread-ai/mxbai-rerank-xsmall-v1")
-    
 mongodb_client = MongoClient(st.secrets["mongo"]["host"], appname="devrel.workshop.rag")
 collection = mongodb_client[DB_NAME][COLLECTION_NAME]
 
@@ -102,7 +100,7 @@ def vector_search(user_query: str) -> List[Dict]:
       {
           "$project": {
               "_id": 0,
-              "Content": 1,
+              "Scraped Content": 1,
               "score": {"$meta": "vectorSearchScore"}
           }
       }
@@ -128,16 +126,10 @@ def create_prompt(user_query: str) -> str:
     # Retrieve the most relevant documents for the `user_query` using the `vector_search` function defined in Step 8
     context = vector_search(user_query)
     # Extract the "body" field from each document in `context`
-    documents = [d.get("Content") for d in context]
-    # Use the `rerank_model` instantiated above to re-rank `documents`
-    # Set the `top_k` argument to 5
-    reranked_documents = rerank_model.rank(
-        user_query, documents, return_documents=True, top_k=5
-    )
-    # Join the re-ranked documents into a single string, where each document is separated by two new lines ("\n\n")
-    context = "\n\n".join([d.get("text", "") for d in reranked_documents])
+    documents = "\n\n".join([d.get("Scraped Content", "") for d in context])
+
     # Prompt consisting of the question and relevant context to answer it
-    prompt = f"Answer the question based only on the following context. If the context is empty, say I DON'T KNOW\n\nContext:\n{context}\n\nQuestion:{user_query}"
+    prompt = f"Answer the question based only on the following context. If the context is empty, say I DON'T KNOW\n\nContext:\n{documents}\n\nQuestion:{user_query}"
     return prompt
 
 
