@@ -54,42 +54,7 @@ def store_chat_message(session_id: str, role: str, content: str) -> None:
     # Insert the `message` into the `history_collection` collection
     history_collection.insert_one(message)
 
-
-class TitanEmbeddings(object):
-    accept = "application/json"
-    content_type = "application/json"
-
-    def __init__(self, model_id="amazon.titan-embed-text-v2:0"):
-        self.bedrock = boto3.client(
-            service_name='bedrock-runtime',
-            config=my_config,
-            aws_access_key_id=st.secrets["aws"]["access_key"],
-            aws_secret_access_key=st.secrets["aws"]["secret_key"]
-        )
-        self.model_id = model_id
-    def __call__(self, text, dimensions, normalize=True):
-        """
-        Returns Titan Embeddings
-        Args:
-            text (str): text to embed
-            dimensions (int): Number of output dimensions.
-            normalize (bool): Whether to return the normalized embedding or not.
-        Return:
-            List[float]: Embedding
-
-        """
-        body = json.dumps({
-            "inputText": text,
-            "dimensions": dimensions,
-            "normalize": normalize
-        })
-        response = self.bedrock.invoke_model(
-            body=body, modelId=self.model_id, accept=self.accept, contentType=self.content_type
-        )
-        response_body = json.loads(response.get('body').read())
-        return response_body['embedding']
-
-
+embedding_model = SentenceTransformer("thenlper/gte-small")
 
 def get_embedding(text: str) -> List[float]:
     """
@@ -101,13 +66,9 @@ def get_embedding(text: str) -> List[float]:
     Returns:
         List[float]: Embedding of the text as a list.
     """
-    embedding_model = TitanEmbeddings(model_id="amazon.titan-embed-text-v2:0")
-    dimensions = 1024
-    normalize = True
-    embedding = embedding_model(text, dimensions, normalize)
+    embedding = embedding_model.encode(text)
 
-    return embedding
-
+    return embedding.tolist()
 
 
 def vector_search(user_query: str) -> List[Dict]:

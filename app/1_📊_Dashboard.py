@@ -22,12 +22,12 @@ def config():
 
 def render_view():
     priceut.render_price_chart()
-    for chart in ST_DEMOS:
-        demo, url = (
-            ST_DEMOS[chart]
-        )
+    # for chart in ST_DEMOS:
+    #     demo, url = (
+    #         ST_DEMOS[chart]
+    #     )
         
-        demo()
+    #     demo()
 
 
 if __name__ == "__main__":
