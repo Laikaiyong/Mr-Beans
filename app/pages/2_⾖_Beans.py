@@ -5,7 +5,6 @@ from torchvision import transforms
 from PIL import Image
 import io
 import os
-from annotated_text import annotated_text
 
 cwd = os.path.dirname(__file__) 
 
@@ -33,6 +32,29 @@ class CNNModel(nn.Module):
         x = self.fc2(x)
         return x
 
+# class GradeCNNModel(nn.Module):
+#     def __init__(self):
+#         super(GradeCNNModel, self).__init__()
+#         self.conv1 = nn.Conv2d(3, 32, kernel_size=3, padding=1)
+#         self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
+#         self.conv2 = nn.Conv2d(32, 64, kernel_size=3, padding=1)
+#         self.conv3 = nn.Conv2d(64, 128, kernel_size=3, padding=1)
+#         self.pool2 = nn.MaxPool2d(kernel_size=2, stride=2)
+#         self.fc1 = nn.Linear(128 * 14 * 14, 512)
+#         self.dropout = nn.Dropout(0.5)
+#         self.fc2 = nn.Linear(512, 3)  
+
+#     def forward(self, x):
+#         x = self.pool(nn.ReLU()(self.conv1(x)))
+#         x = self.pool(nn.ReLU()(self.conv2(x)))
+#         x = self.pool(nn.ReLU()(self.conv3(x)))
+#         x = self.pool2(x)
+#         x = x.view(-1, 128 * 14 * 14)
+#         x = nn.ReLU()(self.fc1(x))
+#         x = self.dropout(x)
+#         x = self.fc2(x)
+#         return x
+
 # Load the roasted CNN model
 roasted_cnn_model_path = cwd + "/models/roasted_cnn_model.pth"
 roasted_cnn_model = CNNModel()
@@ -47,6 +69,7 @@ type_cnn_model.eval()
 
 # Load the grade trained model's state dict
 grade_cnn_model_path = cwd + "/models/type_cnn_model.pth"
+# grade_cnn_model = GradeCNNModel()
 grade_cnn_model = CNNModel()
 grade_cnn_model.load_state_dict(torch.load(grade_cnn_model_path, map_location=torch.device('cpu')), strict = False)
 grade_cnn_model.eval()
