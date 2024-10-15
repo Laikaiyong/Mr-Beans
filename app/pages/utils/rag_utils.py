@@ -159,7 +159,7 @@ def retrieve_session_history(session_id: str) -> List:
     if cursor:
         # Iterate through the cursor and extract the `role` and `content` field from each entry
         # Then format each entry as: {"role": <role_value>, "content": <content_value>}
-        messages = [{"role": msg["role"], "content": [{ "text": msg["content"]}]} for msg in cursor]
+        messages = [{"role": msg["role"], "content": msg["content"]} for msg in cursor]
     else:
         # If cursor is empty, return an empty list
         messages = []
