@@ -3,8 +3,6 @@ from datetime import datetime
 from sentence_transformers import CrossEncoder, SentenceTransformer
 from tqdm import tqdm
 import json
-import boto3
-from botocore.config import Config
 import os
 from typing import List, Dict
 from pymongo import MongoClient
@@ -28,16 +26,6 @@ mongodb_client = MongoClient(st.secrets["mongo"]["host"], appname="devrel.worksh
 collection = mongodb_client[DB_NAME][COLLECTION_NAME]
 
 history_collection = mongodb_client[DB_NAME]["chat_history"]
-
-my_config = Config(
-    region_name = 'us-east-1',
-    signature_version = 'v4',
-    retries = {
-        'max_attempts': 10,
-        'mode': 'standard'
-    }
-)
-
 
 def store_chat_message(session_id: str, role: str, content: str) -> None:
     """
