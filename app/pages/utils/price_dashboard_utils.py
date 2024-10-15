@@ -125,7 +125,6 @@ def render_price_chart():
     # Extract actual and future data for plotting
     actual_dates = combined_df.loc[actual_mask, 'DATE'].dt.strftime('%Y-%m-%d').tolist()
     future_dates = combined_df.loc[future_mask, 'DATE'].dt.strftime('%Y-%m-%d').tolist()
-    print(future_dates)
 
     actual_pcoff_prices = combined_df.loc[actual_mask, 'PCOFFOTMUSDM'].tolist()
     future_pcoff_prices = combined_df.loc[future_mask, 'PCOFFOTMUSDM'].tolist()
