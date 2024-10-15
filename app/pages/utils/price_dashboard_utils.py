@@ -10,6 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import StandardScaler
 from datetime import timedelta, datetime, date
 import calendar
+from dateutil.relativedelta import relativedelta
 
 cwd = os.path.dirname(__file__)
 
@@ -63,7 +64,7 @@ def train_model(X, y):
 def predict_future_prices_dual(model, scaler, df, end_date):
     last_date = df['DATE'].max()
     months_to_predict = (end_date - last_date).days // 30
-    future_dates = pd.date_range(start=last_date + timedelta(days=1), periods=months_to_predict)
+    future_dates = pd.date_range(start=last_date +  relativedelta(months=+1), periods=months_to_predict)
 
     future_df = pd.DataFrame({'DATE': future_dates})
     future_df['days_since_start'] = (future_df['DATE'] - df['DATE'].min()).dt.days
@@ -124,6 +125,7 @@ def render_price_chart():
     # Extract actual and future data for plotting
     actual_dates = combined_df.loc[actual_mask, 'DATE'].dt.strftime('%Y-%m-%d').tolist()
     future_dates = combined_df.loc[future_mask, 'DATE'].dt.strftime('%Y-%m-%d').tolist()
+    print(future_dates)
 
     actual_pcoff_prices = combined_df.loc[actual_mask, 'PCOFFOTMUSDM'].tolist()
     future_pcoff_prices = combined_df.loc[future_mask, 'PCOFFOTMUSDM'].tolist()
@@ -132,11 +134,13 @@ def render_price_chart():
     future_wpu_prices = combined_df.loc[future_mask, 'WPU026301'].tolist()
 
     options = {
-        "title": {"text": "Coffee Prices"},
         "tooltip": {"trigger": "axis"},
         "legend": {"data": ["PCOFFOTMUSDM (Actual)", "PCOFFOTMUSDM (Predicted)", "WPU026301 (Actual)", "WPU026301 (Predicted)"]},
+        "color": [
+            "#610C04", "#610C04", "#1C90FF", "#1C90FF"
+        ],
         "grid": {"left": "3%", "right": "4%", "bottom": "3%", "containLabel": True},
-        "toolbox": {"feature": {"saveAsImage": {}}},
+        # "toolbox": {"feature": {"saveAsImage": {}}},
         "xAxis": {
             "type": "category",
             "boundaryGap": False,
@@ -149,34 +153,35 @@ def render_price_chart():
                 "type": "line",
                 "data": actual_pcoff_prices + [None] * len(future_pcoff_prices),
                 "smooth": True,
-                "lineStyle": {"color": "#FF0000"},  
+                "lineStyle": {"color": "#610C04"},  
             },
             {
                 "name": "PCOFFOTMUSDM (Predicted)",
                 "type": "line",
                 "data": [None] * len(actual_pcoff_prices) + future_pcoff_prices,
                 "smooth": True,
-                "lineStyle": {"color": "#00FF00", "type": "dashed"},  
+                "lineStyle": {"color": "#610C04", "type": "dashed"},  
             },
             {
                 "name": "WPU026301 (Actual)",
                 "type": "line",
                 "data": actual_wpu_prices + [None] * len(future_wpu_prices),
                 "smooth": True,
-                "lineStyle": {"color": "#0000FF"},  
+                "lineStyle": {"color": "#1C90FF"},  
             },
             {
                 "name": "WPU026301 (Predicted)",
                 "type": "line",
                 "data": [None] * len(actual_wpu_prices) + future_wpu_prices,
                 "smooth": True,
-                "lineStyle": {"color": "#FFA500", "type": "dashed"},  
+                "lineStyle": {"color": "#1C90FF", "type": "dashed"},  
             }
         ],
     }
 
     left, right = st.columns([4, 1])
     with left:
+        st.header("Coffeee Prices")
         st_echarts(options=options, height="400px")
     with right.expander("Learn more", icon="ℹ"):
         st.markdown("""
