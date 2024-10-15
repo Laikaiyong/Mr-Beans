@@ -9,6 +9,13 @@ import os
 from typing import List, Dict
 from pymongo import MongoClient
 
+from fireworks.client import Fireworks
+
+fw_client = Fireworks(
+    api_key=st.secrets["fireworks"]["api_key"]
+)
+model = "accounts/fireworks/models/llama-v3-8b-instruct"
+
 # Name of the database -- Change if needed or leave as is
 DB_NAME = "mongodb_rag_lab"
 # Name of the collection -- Change if needed or leave as is
@@ -170,66 +177,44 @@ def generate_answer(session_id: str, user_query: str) -> None:
         session_id (str): Session ID to retrieve chat history for.
         user_query (str): The user's query string.
     """
-    # Initialize list of messages to pass to the chat completion model
     messages = []
 
     # Retrieve documents relevant to the user query and convert them to a single string
     context = vector_search(user_query)
-    context = "\n\n".join([d.get("Content", "") for d in context])
-
-    # # Create a system prompt containing the retrieved context
-    # system_message = {
-    #     "role": "assistant",
-    #     "content": [
-    #         {
-    #             "text": f"Answer the question based only on the following context. If the context is empty, say I DON'T KNOW\n\nContext:\n{context}",
-    #         }
-    #     ]
-    # }
-    # # Append the system prompt to the `messages` list
-    # messages.append(system_message)
+    context = "\n\n".join([d.get("Scraped Content", "") for d in context])
+    # Create a system prompt containing the retrieved context
+    system_message = {
+        "role": "system",
+        "content": f"Answer the question based only on the following context. If the context is empty, say I DON'T KNOW\n\nContext:\n{context}",
+    }
+    # Append the system prompt to the `messages` list
+    messages.append(system_message)
 
     # Use the `retrieve_session_history` function to retrieve message history from MongoDB for the session ID `session_id`
     # And add all messages in the message history to the `messages` list
     message_history = retrieve_session_history(session_id)
 
     messages.extend(message_history)
-    prompt = create_prompt(user_query)
 
     # Format the user message in the format {"role": <role_value>, "content": <content_value>}
     # The role value for user messages must be "user"
     # And append the user message to the `messages` list
-    user_message = {"role": "user", "content": [{ "text": prompt}]}
+    user_message = {"role": "user", "content": user_query}
 
 
     messages.append(user_message)
 
     # Call the chat completions API
-    client = boto3.client(
-          service_name='bedrock-runtime',
-          config=my_config,
-          aws_access_key_id=st.secrets["aws"]["access_key"],
-          aws_secret_access_key=st.secrets["aws"]["secret_key"]
-    )
-
-    # Set the model ID, e.g., Titan Text Premier.
-    model_id = "amazon.titan-text-premier-v1:0"
-
-    # Use the `prompt` created above to populate the `content` field in the chat message
-    response = client.converse(
-        modelId=model_id,
-        messages=messages,
-        inferenceConfig={"topP":0.9},
-        additionalModelRequestFields={}
-    )
+    response = fw_client.chat.completions.create(model=model, messages=messages)
 
     # Extract the answer from the API response
-    answer = response["output"]["message"]["content"][0]["text"]
+    answer = response.choices[0].message.content
 
     # Use the `store_chat_message` function to store the user message and also the generated answer in the message history collection
     # The role value for user messages is "user", and "assistant" for the generated answer
     store_chat_message(session_id, "user", user_query)
     store_chat_message(session_id, "assistant", answer)
+
 
     return answer
 

@@ -28,10 +28,10 @@ def config():
     # Customize page title
     st.title("Beans Guru 💬")
     
-    popover = st.popover("Filter topics")
-    mcmc = popover.checkbox("MCMC Regulations", True)
-    packaging = popover.checkbox("Packaging Coffee Beans", True)
-    shipping = popover.checkbox("Shipping Coffee Beans", True)
+    # popover = st.popover("Filter topics")
+    # mcmc = popover.checkbox("MCMC Regulations", True)
+    # packaging = popover.checkbox("Packaging Coffee Beans", True)
+    # shipping = popover.checkbox("Shipping Coffee Beans", True)
 
     st.info(
         "Package your beans better with MCMC Regulations"
